@@ -1,0 +1,12 @@
+Version: 10-ssl
+Updated: 02-03-2019 18:22:44.392
+Format: dd-MM-yyyy HH:mm:ss.SSS
+
+Copied from -> to:
+
+   tumineProjectRoot/android/libs/armeabi-v7a/tumine_ssl -> tumineProjectRoot/android-out/ssl/assets/tumine86arm
+
+   tumineProjectRoot/android/libs/x86/tumine_ssl -> tumineProjectRoot/android-out/ssl/assets/tumine86
+
+   tumineProjectRoot/android/libs/arm64-v8a/tumine_ssl -> tumineProjectRoot/android-out/ssl/assets/tumine64arm
+
